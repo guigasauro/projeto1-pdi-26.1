@@ -1,0 +1,8 @@
+{
+  "tamanho_mascara": 21,
+  "sigma": 4.0,
+  "lambda": 10.0,
+  "gamma": 0.5,
+  "psi": 0.0,
+  "orientacoes_graus": [0, 45, 90, 135]
+}
