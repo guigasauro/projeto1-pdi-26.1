@@ -3,6 +3,6 @@
   "sigma": 4.0,
   "lambda": 10.0,
   "gamma": 0.5,
-  "psi": 0.0,
-  "orientacoes_graus": [0, 45, 90, 135]
+  "psi": 1.5707963267948966,
+  "orientacoes_graus":  [0, 22.5, 45, 67.5, 90, 112.5, 135, 157.5]
 }
